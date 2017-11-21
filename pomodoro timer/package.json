@@ -1,0 +1,9 @@
+{
+  "name": "pomodoro-timer",
+  "version": "0.0.0",
+  "description": "pomodoro timer",
+  "main": "server.js",
+  "author": {
+    "name": "Tom"
+  }
+}
